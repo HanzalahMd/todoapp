@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "flash-sol-227904": {
+      "hosting": {
+        "todoapp": [
+          "flash-sol-227904"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "flash-sol-227904"
+  }
+}
